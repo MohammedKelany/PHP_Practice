@@ -27,3 +27,6 @@ The video covers all the basic things about PHP.
  - Working with MySql (We will build notes application)
  - Namespacing
  - Composer and autoloading
+ - Working with jsons
+ - Uploading Files
+ - Liking System without refreshing the page 
